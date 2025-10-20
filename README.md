@@ -1,5 +1,10 @@
-# TrentonMendiola.github.io
-Trenton Mendiola's ePortfolio
+# TrentonMendiolas ePortfolio
+
+ <embed src="https://github.com/TrentonMendiola/TrentonMendiola.github.io/blob/main/Self%20Assessment%20Trenton%20Mendiola.pdf" width="100%" height="800px" />
+
+
+
+
 
 Original Project Files for each enhancement can be found here:
 
@@ -14,8 +19,7 @@ Code Review Video:
 
 
 
-Enhancement 1 Files be found here:
 
-Enhancement 2 Files can be found here:
 
-Enhancement 3 Files can be found here:
+
+
