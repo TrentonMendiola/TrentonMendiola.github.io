@@ -3,9 +3,6 @@
  <embed src="https://github.com/TrentonMendiola/TrentonMendiola.github.io/blob/main/Self%20Assessment%20Trenton%20Mendiola.pdf" width="100%" height="800px" />
 
 
-
-
-
 Original Project Files for each enhancement can be found here:
 
 <a href="https://github.com/TrentonMendiola/CS320Portfolio">CS320 Original Project Files</a>
