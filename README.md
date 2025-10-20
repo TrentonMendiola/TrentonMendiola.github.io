@@ -1,4 +1,4 @@
-# TrentonMendiolas ePortfolio
+# TrentonMendiola's ePortfolio
 
 
 ## Self Assessment
