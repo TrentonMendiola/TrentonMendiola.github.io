@@ -1,9 +1,10 @@
 # TrentonMendiola's ePortfolio
+<br>
+<br>
 
 
 ## Self Assessment
  <embed src="Self Assessment Trenton Mendiola.pdf" width="100%" height="800px" />
-<br>
 <br>
 <br>
 <br>
@@ -17,7 +18,7 @@
 <br>
 <br>
 <br>
-<br>
+
 
 ## Original Artifact Files
 
@@ -29,13 +30,14 @@
 <br>
 <br>
 <br>
-<br>
+
 
 ## Enhancement 1
 
 ### Enhancement 1 Narrative 
  <embed src="CS 499 Enhancement One Software Design Engineering Narrative.pdf" width="100%" height="800px" />
-
+<br>
+<br>
 ### Completed Enhancement Files
 <a href="https://github.com/TrentonMendiola/CompletedEnhancement-1">Completed Enhancement 1 Files</a>
 <br>
@@ -43,13 +45,14 @@
 <br>
 <br>
 <br>
-<br>
+
 
 ## Enhancement 2
 
 ### Enhancement 2 Narrative 
  <embed src="CS 499 Enhancement Two Narative Trenton Mendiola.pdf" width="100%" height="800px" />
-
+<br>
+<br>
 ### Completed Enhancement Files
 <a href="https://github.com/TrentonMendiola/CompletedEnhancement-2/tree/main">Completed Enhancement 2 Files</a>
 <br>
@@ -57,13 +60,14 @@
 <br>
 <br>
 <br>
-<br>
+
 
 ## Enhancement 3
 
 ### Enhancement 3 Narrative 
  <embed src="CS 499 Enhancement Three Databases Narrative Trenton Mendiola.pdf" width="100%" height="800px" />
-
+<br>
+<br>
 ### Completed Enhancement Files
 <a href="https://github.com/TrentonMendiola/CompletedEnhancement-3-Trenton">Completed Enhancement 3 Files</a>
 <br>
